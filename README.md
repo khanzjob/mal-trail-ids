@@ -561,43 +561,14 @@ Nevertheless, administrator(s) should invest some extra time and check (with oth
   **Note**: ```/maltrail-sensor.service``` can be started as dedicated service without pre-started ```/maltrail-server.service```. This is useful for case, when ```/maltrail-server.service``` is installed and works on another machine in you network environment.
 
 
-## License
-
-This software is provided under a MIT License. See the accompanying [LICENSE](https://github.com/stamparm/maltrail/blob/master/LICENSE) file for more information.
-
-## Sponsors
-
-* [Sansec](https://sansec.io/) (2020-2021)
-
-## Developers
-
-* Miroslav Stampar ([@stamparm](https://github.com/stamparm))
-* Mikhail Kasimov ([@MikhailKasimov](https://github.com/MikhailKasimov))
-
 ## Presentations
 
 * 47th TF-CSIRT Meeting, Prague (Czech Republic), 2016 ([slides](https://www.terena.org/activities/tf-csirt/meeting47/M.Stampar-Maltrail.pdf))
-
-## Publications
-
-* Detect attacks on your network with Maltrail, Linux Magazine, 2022 ([Annotation](https://www.linux-magazine.com/Issues/2022/258/Maltrail))
-* Best Cyber Threat Intelligence Feeds ([SilentPush Review, 2022](https://www.silentpush.com/blog/best-cyber-threat-intelligence-feeds))
 
 ## Blacklist
 
 * Maltrail's daily updated blacklist of malware-related domains can be found [here](https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt). It is based on trails found at [trails/static/malware](trails/static/malware) and can be safely used for DNS traffic blocking purposes.
 
-## Thank you
-*khazjoel
-* Thomas Kristner
-* Eduardo Arcusa Les
-* James Lay
-* Ladislav Baco (@laciKE)
-* John Kristoff (@jtkdpu)
-* Michael M&uuml;nz (@mimugmail)
-* David Brush
-* @Godwottery
-* Chris Wild (@briskets)
 
 ## Third-party integrations
 
